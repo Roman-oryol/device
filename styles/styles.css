@@ -991,6 +991,7 @@ img {
   left: 0;
   display: flex;
   background-color: rgba(240, 240, 240, 0.9);
+  z-index: 1;
 }
 
 .modal {
